@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_BtnConnect">LOGIN</string>
+    <string name="login_Loading">Loading...</string>
+    <string name="login_ErrorInvalidMailOrPassword">Invalid email or password</string>
+    <string name="login_ErrorConnexionProbleme">OOPs! Something went wrong. Connection Problem.</string>
+</resources>
